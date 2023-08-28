@@ -12,11 +12,14 @@
     --thirdBackgroundColor: #f5f3fe;
 
     --primaryIconColor: #55b8bb;
-    --primaryIconColorHover: #5EE5EA;
 
     --sectionPadding: 6rem 0;
 
     --itemBorderRadius: 0.7rem;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 * {
