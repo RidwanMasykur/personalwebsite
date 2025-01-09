@@ -56,7 +56,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the license terms.
+This project is licensed under the MIT License. Feel free to use and modify the code as per the license terms.
 
 ---
 
