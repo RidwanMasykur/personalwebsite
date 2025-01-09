@@ -1,4 +1,4 @@
-# Wayne's Portfolio Website
+# Personal Website
 
 Welcome to my personal portfolio website! This website showcases my projects, skills, and experiences as a professional in programming.
 
